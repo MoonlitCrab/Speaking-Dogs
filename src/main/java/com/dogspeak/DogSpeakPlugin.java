@@ -15,7 +15,7 @@ import java.util.Random;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Dog Speak"
+	name = "dog-speak"
 )
 
 public class DogSpeakPlugin extends Plugin {
